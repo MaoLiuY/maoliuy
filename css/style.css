@@ -559,7 +559,7 @@ h1.title.is-size-3.is-size-4-mobile.has-text-weight-normal {
   padding: 0 20px;
   border-left: 3px solid #363636;
   border-right: 3px solid #363636;
-  background-color: rgba(219,219,219,0.43);
+  background-color: rgba(219,219,219,0.651);
   font-size: 20px;
   line-height: 40px;
   text-align: center !important;
@@ -573,4 +573,10 @@ img.thumbnail {
 }
 blockquote {
   border-radius: 8px;
+}
+.v .vwrap {
+  border-radius: 8px;
+}
+.card-content.article {
+  padding: 1rem 1.5rem 1.5rem 1.5rem;
 }
